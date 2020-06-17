@@ -1,5 +1,5 @@
                                 ![GitHub Logo](sysnoob.png) 
-                                  Format: ![sysnoob.inc](https://github.com/feroze-code/MIT/sysnoob.png)                     
+                                  Format: ![sysnoob.inc](URL)                     
   
 # MIT                                                                                                         
 
