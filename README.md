@@ -1,4 +1,4 @@
-                                                                                 ![GitHub Logo](./images/sysnoob.png) Format: ![sysnoob.inc](https://github.com/feroze-code/MIT/blob/master/sysnoob.png)                     
+                                                                                 ![GitHub Logo](/images/sysnoob.png) Format: ![sysnoob.inc](https://github.com/feroze-code/MIT/blob/master/sysnoob.png)                     
   
 # MIT                                                                                                         
 
