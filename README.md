@@ -1,4 +1,4 @@
-                                ![GitHub Logo](sysnoob.png) 
+                                ![sysnoob logo](sysnoob.png) 
                                   Format: ![sysnoob.inc](URL)                     
   
 # MIT                                                                                                         
